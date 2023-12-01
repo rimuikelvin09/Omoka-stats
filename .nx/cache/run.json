@@ -1,0 +1,21 @@
+{
+  "run": {
+    "command": "nx run Omoka-app:ng",
+    "startTime": "2023-11-24T08:19:47.857Z",
+    "endTime": "2023-11-24T08:19:52.971Z",
+    "inner": false
+  },
+  "tasks": [
+    {
+      "taskId": "Omoka-app:ng",
+      "target": "ng",
+      "projectName": "Omoka-app",
+      "hash": "4937577275175155928",
+      "startTime": "2023-11-24T08:19:47.873Z",
+      "endTime": "2023-11-24T08:19:52.968Z",
+      "params": "",
+      "cacheStatus": "cache-miss",
+      "status": 1
+    }
+  ]
+}

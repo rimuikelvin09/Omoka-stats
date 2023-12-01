@@ -1,0 +1,18 @@
+<div class="reminders">
+  <div class="main-title">Bill Reminders</div>
+  <div class="reminder-wrapper">
+    <div class="reminder" *ngFor="let reminder of reminders">
+      <div class="title">{{ reminder.title }}</div>
+      <div class="ammount">{{ reminder.Ammount }}</div>
+      <div class="due-date">{{ reminder.Due }}</div>
+      <div
+        class="priority"
+        [ngClass]="{ High: reminder.Priority === 'High',
+    Intermediate: reminder.Priority === 'Intermediate', 
+    Low: reminder.Priority === 'Low',  }"
+      >
+        {{ reminder.Priority }}
+      </div>
+    </div>
+  </div>
+</div>

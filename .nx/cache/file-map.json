@@ -1,0 +1,784 @@
+{
+  "version": "6.0",
+  "nxVersion": "17.1.3",
+  "deps": {
+    "@angular/animations": "^16.2.0",
+    "@angular/cdk": "^17.0.1",
+    "@angular/common": "^16.2.0",
+    "@angular/compiler": "^16.2.0",
+    "@angular/core": "^16.2.0",
+    "@angular/forms": "^16.2.0",
+    "@angular/material": "^17.0.1",
+    "@angular/platform-browser": "^16.2.0",
+    "@angular/platform-browser-dynamic": "^16.2.0",
+    "@angular/router": "^16.2.0",
+    "@fortawesome/angular-fontawesome": "^0.13.0",
+    "@fortawesome/fontawesome-free": "^6.4.2",
+    "@fortawesome/free-solid-svg-icons": "^6.4.2",
+    "angular-highcharts": "^16.0.0",
+    "highcharts": "^11.2.0",
+    "rxjs": "~7.8.0",
+    "tslib": "^2.3.0",
+    "zone.js": "~0.13.0",
+    "@angular-devkit/build-angular": "^16.2.8",
+    "@angular-devkit/core": "^16.2.8",
+    "@angular-devkit/schematics": "^16.2.8",
+    "@angular/cli": "^16.2.8",
+    "@angular/compiler-cli": "^16.2.0",
+    "@nx/angular": "17.1.3",
+    "@nx/workspace": "17.1.3",
+    "@schematics/angular": "^16.2.8",
+    "@types/jasmine": "~4.3.0",
+    "jasmine-core": "~4.6.0",
+    "karma": "~6.4.0",
+    "karma-chrome-launcher": "~3.2.0",
+    "karma-coverage": "~2.2.0",
+    "karma-jasmine": "~5.1.0",
+    "karma-jasmine-html-reporter": "~2.1.0",
+    "ng-packagr": "^16.2.0",
+    "nx": "17.1.3",
+    "typescript": "~5.1.3"
+  },
+  "pathMappings": {
+    "font-awesome-icons": [
+      "dist/font-awesome-icons"
+    ]
+  },
+  "nxJsonPlugins": [],
+  "fileMap": {
+    "nonProjectFiles": [],
+    "projectFileMap": {
+      "Omoka-app": [
+        {
+          "file": ".editorconfig",
+          "hash": "6686520031028425313"
+        },
+        {
+          "file": ".gitignore",
+          "hash": "13044518069027839699"
+        },
+        {
+          "file": ".nx/cache/cloud/2311.09.8.hotfix8/index.js",
+          "hash": "15966481786630545044",
+          "deps": [
+            "npm:os",
+            "npm:assert",
+            "npm:buffer",
+            "npm:zlib",
+            "npm:events",
+            "npm:fs",
+            "npm:path",
+            [
+              "npm:fs",
+              "dynamic"
+            ],
+            [
+              "npm:path",
+              "dynamic"
+            ],
+            [
+              "npm:os",
+              "dynamic"
+            ],
+            [
+              "npm:child_process",
+              "dynamic"
+            ],
+            [
+              "npm:crypto",
+              "dynamic"
+            ],
+            [
+              "npm:tty",
+              "dynamic"
+            ],
+            [
+              "npm:util",
+              "dynamic"
+            ],
+            [
+              "npm:url",
+              "dynamic"
+            ],
+            [
+              "npm:http",
+              "dynamic"
+            ],
+            [
+              "npm:https",
+              "dynamic"
+            ],
+            [
+              "npm:stream",
+              "dynamic"
+            ],
+            [
+              "npm:assert",
+              "dynamic"
+            ],
+            [
+              "npm:zlib",
+              "dynamic"
+            ],
+            [
+              "npm:perf_hooks",
+              "dynamic"
+            ],
+            [
+              "npm:events",
+              "dynamic"
+            ],
+            [
+              "npm:string_decoder",
+              "dynamic"
+            ],
+            [
+              "npm:constants",
+              "dynamic"
+            ]
+          ]
+        },
+        {
+          "file": ".nx/cache/cloud/2311.09.8.hotfix8/lib/daemon/process-run-end.js",
+          "hash": "4387998712489105129",
+          "deps": [
+            "npm:path",
+            "npm:os",
+            "npm:assert",
+            "npm:buffer",
+            "npm:zlib",
+            "npm:events",
+            "npm:fs",
+            [
+              "npm:fs",
+              "dynamic"
+            ],
+            [
+              "npm:path",
+              "dynamic"
+            ],
+            [
+              "npm:os",
+              "dynamic"
+            ],
+            [
+              "npm:child_process",
+              "dynamic"
+            ],
+            [
+              "npm:crypto",
+              "dynamic"
+            ],
+            [
+              "npm:tty",
+              "dynamic"
+            ],
+            [
+              "npm:util",
+              "dynamic"
+            ],
+            [
+              "npm:url",
+              "dynamic"
+            ],
+            [
+              "npm:http",
+              "dynamic"
+            ],
+            [
+              "npm:https",
+              "dynamic"
+            ],
+            [
+              "npm:stream",
+              "dynamic"
+            ],
+            [
+              "npm:assert",
+              "dynamic"
+            ],
+            [
+              "npm:zlib",
+              "dynamic"
+            ],
+            [
+              "npm:perf_hooks",
+              "dynamic"
+            ],
+            [
+              "npm:events",
+              "dynamic"
+            ],
+            [
+              "npm:string_decoder",
+              "dynamic"
+            ]
+          ]
+        },
+        {
+          "file": ".nx/cache/cloud/2311.09.8.hotfix8/lib/heartbeat/heartbeat-process.js",
+          "hash": "5633484099946442012",
+          "deps": [
+            "npm:os",
+            "npm:fs",
+            "npm:path",
+            [
+              "npm:fs",
+              "dynamic"
+            ],
+            [
+              "npm:path",
+              "dynamic"
+            ],
+            [
+              "npm:os",
+              "dynamic"
+            ],
+            [
+              "npm:child_process",
+              "dynamic"
+            ],
+            [
+              "npm:crypto",
+              "dynamic"
+            ],
+            [
+              "npm:tty",
+              "dynamic"
+            ],
+            [
+              "npm:util",
+              "dynamic"
+            ],
+            [
+              "npm:url",
+              "dynamic"
+            ],
+            [
+              "npm:http",
+              "dynamic"
+            ],
+            [
+              "npm:https",
+              "dynamic"
+            ],
+            [
+              "npm:stream",
+              "dynamic"
+            ],
+            [
+              "npm:assert",
+              "dynamic"
+            ],
+            [
+              "npm:zlib",
+              "dynamic"
+            ],
+            [
+              "npm:perf_hooks",
+              "dynamic"
+            ]
+          ]
+        },
+        {
+          "file": ".nx/cache/cloud/2311.09.8.hotfix8/package.json",
+          "hash": "11687418979936424737"
+        },
+        {
+          "file": ".nx/cache/cloud/verify.lock",
+          "hash": "16329449093411236448"
+        },
+        {
+          "file": ".nx/cache/d/daemon.log",
+          "hash": "7742508758425614939"
+        },
+        {
+          "file": ".nx/cache/file-map.json",
+          "hash": "1780848013824826355"
+        },
+        {
+          "file": ".nx/cache/lockfile.hash",
+          "hash": "2112220878127162656"
+        },
+        {
+          "file": ".nx/cache/parsed-lock-file.json",
+          "hash": "17473737597410747503"
+        },
+        {
+          "file": ".nx/cache/project-graph.json",
+          "hash": "11075862500364442045"
+        },
+        {
+          "file": ".nx/cache/run.json",
+          "hash": "6812882611441534054"
+        },
+        {
+          "file": ".nx/cache/terminalOutputs/13344520415978928306",
+          "hash": "6671847402393207379"
+        },
+        {
+          "file": ".nx/cache/terminalOutputs/16160172895295489543",
+          "hash": "8422726711575234484"
+        },
+        {
+          "file": ".nx/cache/terminalOutputs/3019950969390797108",
+          "hash": "12514615335001777972"
+        },
+        {
+          "file": ".nx/cache/terminalOutputs/3512152963975152031",
+          "hash": "9745139841673257692"
+        },
+        {
+          "file": ".nx/cache/terminalOutputs/4279802997649748250",
+          "hash": "10008820834582228849"
+        },
+        {
+          "file": ".nx/cache/terminalOutputs/4937577275175155928",
+          "hash": "1956717781526463246"
+        },
+        {
+          "file": ".nx/cache/terminalOutputs/5302250625187728449",
+          "hash": "2532430170769669131"
+        },
+        {
+          "file": ".nx/cache/terminalOutputs/6527942677639902771",
+          "hash": "1252828418834408552"
+        },
+        {
+          "file": ".nx/cache/terminalOutputs/7065100372350661136",
+          "hash": "11996993698196841154"
+        },
+        {
+          "file": ".nx/cache/terminalOutputs/8438321117526868988",
+          "hash": "4505350272148834002"
+        },
+        {
+          "file": ".vscode/extensions.json",
+          "hash": "12343942279124280405"
+        },
+        {
+          "file": ".vscode/launch.json",
+          "hash": "17038929134016848735"
+        },
+        {
+          "file": ".vscode/tasks.json",
+          "hash": "5336636969995539451"
+        },
+        {
+          "file": "README.md",
+          "hash": "12885130047770431724"
+        },
+        {
+          "file": "functions/.eslintrc.js",
+          "hash": "5796444923375035304"
+        },
+        {
+          "file": "functions/.gitignore",
+          "hash": "7080444811012829751"
+        },
+        {
+          "file": "functions/package-lock.json",
+          "hash": "9145656735459676891"
+        },
+        {
+          "file": "functions/package.json",
+          "hash": "2575012844869785569"
+        },
+        {
+          "file": "functions/src/index.ts",
+          "hash": "13368166479861615281"
+        },
+        {
+          "file": "functions/tsconfig.dev.json",
+          "hash": "1817712665177004581"
+        },
+        {
+          "file": "functions/tsconfig.json",
+          "hash": "1065957615995710747"
+        },
+        {
+          "file": "nx.json",
+          "hash": "8880398563649383263"
+        },
+        {
+          "file": "package-lock.json",
+          "hash": "6778459915244924379"
+        },
+        {
+          "file": "package.json",
+          "hash": "13642167432110215385",
+          "deps": [
+            "npm:@angular/animations",
+            "npm:@angular/cdk",
+            "npm:@angular/common",
+            "npm:@angular/compiler",
+            "npm:@angular/core",
+            "npm:@angular/forms",
+            "npm:@angular/material",
+            "npm:@angular/platform-browser",
+            "npm:@angular/platform-browser-dynamic",
+            "npm:@angular/router",
+            "npm:@fortawesome/angular-fontawesome",
+            "npm:@fortawesome/fontawesome-free",
+            "npm:@fortawesome/free-solid-svg-icons",
+            "npm:angular-highcharts",
+            "npm:highcharts",
+            "npm:rxjs",
+            "npm:tslib",
+            "npm:zone.js",
+            "npm:@angular-devkit/build-angular",
+            "npm:@angular-devkit/core",
+            "npm:@angular-devkit/schematics",
+            "npm:@angular/cli",
+            "npm:@angular/compiler-cli",
+            "npm:@nx/angular",
+            "npm:@nx/workspace",
+            "npm:@schematics/angular",
+            "npm:@types/jasmine",
+            "npm:jasmine-core",
+            "npm:karma",
+            "npm:karma-chrome-launcher",
+            "npm:karma-coverage",
+            "npm:karma-jasmine",
+            "npm:karma-jasmine-html-reporter",
+            "npm:ng-packagr",
+            "npm:nx",
+            "npm:typescript"
+          ]
+        },
+        {
+          "file": "project.json",
+          "hash": "6816587488189979331"
+        },
+        {
+          "file": "public/404.html",
+          "hash": "9529847387113619183"
+        },
+        {
+          "file": "public/index.html",
+          "hash": "16413796687308623502"
+        },
+        {
+          "file": "remoteconfig.template.json",
+          "hash": "1389868326933519382"
+        },
+        {
+          "file": "src/app/app-routing.module.ts",
+          "hash": "6250625392482207240",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/router"
+          ]
+        },
+        {
+          "file": "src/app/app.component.html",
+          "hash": "3933263988572458012"
+        },
+        {
+          "file": "src/app/app.component.scss",
+          "hash": "11882005647874670895"
+        },
+        {
+          "file": "src/app/app.component.spec.ts",
+          "hash": "11968298333259876506",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/router"
+          ]
+        },
+        {
+          "file": "src/app/app.component.ts",
+          "hash": "6912421480340574443",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/app.module.ts",
+          "hash": "8441705824928760713",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/platform-browser",
+            "npm:@fortawesome/angular-fontawesome",
+            "npm:angular-highcharts"
+          ]
+        },
+        {
+          "file": "src/app/expense-by-date/expense-by-date.component.html",
+          "hash": "3840063650467445353"
+        },
+        {
+          "file": "src/app/expense-by-date/expense-by-date.component.scss",
+          "hash": "13810770160087183145"
+        },
+        {
+          "file": "src/app/expense-by-date/expense-by-date.component.spec.ts",
+          "hash": "17212643612898295926",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/expense-by-date/expense-by-date.component.ts",
+          "hash": "17667629694281769362",
+          "deps": [
+            "npm:@angular/core",
+            "npm:angular-highcharts"
+          ]
+        },
+        {
+          "file": "src/app/header/header.component.html",
+          "hash": "15093431797859624948"
+        },
+        {
+          "file": "src/app/header/header.component.scss",
+          "hash": "6145998196709474517"
+        },
+        {
+          "file": "src/app/header/header.component.spec.ts",
+          "hash": "372101361241028373",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/header/header.component.ts",
+          "hash": "3114890235828253524",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/income-by-date/income-by-date.component.html",
+          "hash": "3840063650467445353"
+        },
+        {
+          "file": "src/app/income-by-date/income-by-date.component.scss",
+          "hash": "13810770160087183145"
+        },
+        {
+          "file": "src/app/income-by-date/income-by-date.component.spec.ts",
+          "hash": "1909050150470122189",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/income-by-date/income-by-date.component.ts",
+          "hash": "13290301896720392727",
+          "deps": [
+            "npm:@angular/core",
+            "npm:angular-highcharts"
+          ]
+        },
+        {
+          "file": "src/app/leading-expense/leading-expense.component.html",
+          "hash": "3840063650467445353"
+        },
+        {
+          "file": "src/app/leading-expense/leading-expense.component.scss",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "src/app/leading-expense/leading-expense.component.spec.ts",
+          "hash": "5243209628895266012",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/leading-expense/leading-expense.component.ts",
+          "hash": "15287532466522799532",
+          "deps": [
+            "npm:@angular/core",
+            "npm:angular-highcharts"
+          ]
+        },
+        {
+          "file": "src/app/leading-income/leading-income.component.html",
+          "hash": "3840063650467445353"
+        },
+        {
+          "file": "src/app/leading-income/leading-income.component.scss",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "src/app/leading-income/leading-income.component.spec.ts",
+          "hash": "17183826876919806493",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/leading-income/leading-income.component.ts",
+          "hash": "16477816254591659813",
+          "deps": [
+            "npm:@angular/core",
+            "npm:angular-highcharts"
+          ]
+        },
+        {
+          "file": "src/app/main-dash/main-dash.component.html",
+          "hash": "15614113344527666159"
+        },
+        {
+          "file": "src/app/main-dash/main-dash.component.scss",
+          "hash": "9578562160834488530"
+        },
+        {
+          "file": "src/app/main-dash/main-dash.component.spec.ts",
+          "hash": "17600925456648673989",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/main-dash/main-dash.component.ts",
+          "hash": "14293179748708666157",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/remiders/remiders.component.html",
+          "hash": "14658673046668980045"
+        },
+        {
+          "file": "src/app/remiders/remiders.component.scss",
+          "hash": "11889534618731306981"
+        },
+        {
+          "file": "src/app/remiders/remiders.component.spec.ts",
+          "hash": "18236106665885763178",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/remiders/remiders.component.ts",
+          "hash": "13931468041936821271",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/savings-stats/savings-stats.component.html",
+          "hash": "12557020309970662411"
+        },
+        {
+          "file": "src/app/savings-stats/savings-stats.component.scss",
+          "hash": "9587882441463519058"
+        },
+        {
+          "file": "src/app/savings-stats/savings-stats.component.spec.ts",
+          "hash": "4007226032752109544",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/savings-stats/savings-stats.component.ts",
+          "hash": "1603025828472965758",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/side-nav/side-nav.component.html",
+          "hash": "15060318028471599676"
+        },
+        {
+          "file": "src/app/side-nav/side-nav.component.scss",
+          "hash": "5150780700733368293"
+        },
+        {
+          "file": "src/app/side-nav/side-nav.component.spec.ts",
+          "hash": "1910296887584357115",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/side-nav/side-nav.component.ts",
+          "hash": "11475570341153465159",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@fortawesome/angular-fontawesome",
+            "npm:@fortawesome/free-solid-svg-icons"
+          ]
+        },
+        {
+          "file": "src/app/top-widgets/top-widgets.component.html",
+          "hash": "15272211784144668234"
+        },
+        {
+          "file": "src/app/top-widgets/top-widgets.component.scss",
+          "hash": "8738552666183796027"
+        },
+        {
+          "file": "src/app/top-widgets/top-widgets.component.spec.ts",
+          "hash": "12403495767664917648",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/top-widgets/top-widgets.component.ts",
+          "hash": "11333069860236433842",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@fortawesome/angular-fontawesome",
+            "npm:@fortawesome/free-solid-svg-icons"
+          ]
+        },
+        {
+          "file": "src/assets/.gitkeep",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "src/assets/Images/Logo.png",
+          "hash": "4614169873109898012"
+        },
+        {
+          "file": "src/assets/Images/Vector.png",
+          "hash": "2686315220926873535"
+        },
+        {
+          "file": "src/favicon.ico",
+          "hash": "3464744996580215640"
+        },
+        {
+          "file": "src/index.html",
+          "hash": "2952254241365772755"
+        },
+        {
+          "file": "src/main.ts",
+          "hash": "12246588107753938993",
+          "deps": [
+            "npm:@angular/platform-browser-dynamic"
+          ]
+        },
+        {
+          "file": "src/styles.scss",
+          "hash": "1192523265535271410"
+        },
+        {
+          "file": "storage.rules",
+          "hash": "8085655002946781458"
+        },
+        {
+          "file": "tsconfig.app.json",
+          "hash": "17337579397915052279"
+        },
+        {
+          "file": "tsconfig.json",
+          "hash": "14271596797638877463"
+        },
+        {
+          "file": "tsconfig.spec.json",
+          "hash": "15575553540147145788"
+        }
+      ]
+    }
+  }
+}
