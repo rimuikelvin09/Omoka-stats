@@ -4083,3 +4083,28 @@ Error: Failed to process project dependencies with "nx-js-graph-plugin".
 [NX Daemon Server] - 2023-12-01T05:30:57.154Z - [WATCHER]: Stopping the watcher for c:\Users\hp\Desktop\Angular Projects\Expense tracking app\Omoka app\Omoka-app (sources)
 [NX Daemon Server] - 2023-12-01T05:30:57.154Z - [WATCHER]: Stopping the watcher for c:\Users\hp\Desktop\Angular Projects\Expense tracking app\Omoka app\Omoka-app (outputs)
 [NX Daemon Server] - 2023-12-01T05:30:57.154Z - Server stopped because: "Lock file changed"
+[NX Daemon Server] - 2023-12-01T05:35:52.821Z - Started listening on: \\.\pipe\nx\C:\Users\hp\AppData\Local\Temp\b9be9c1e898df31bae1d\d.sock
+[NX Daemon Server] - 2023-12-01T05:35:52.835Z - [WATCHER]: Subscribed to changes within: C:\Users\hp\Desktop\Angular Projects\Expense tracking app\Omoka app\Omoka-app (native)
+[NX Daemon Server] - 2023-12-01T05:35:52.842Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-01T05:35:52.861Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-12-01T05:35:52.862Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-01T05:35:52.868Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-01T05:35:53.114Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-01T05:35:53.115Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-01T05:35:53.115Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-01T05:35:54.068Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-12-01T05:35:54.073Z - Time taken for 'total for creating and serializing project graph' 1199.5945999920368ms
+[NX Daemon Server] - 2023-12-01T05:35:54.073Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-12-01T05:35:54.073Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1200. Response time: 5.
+[NX Daemon Server] - 2023-12-01T05:35:54.293Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2023-12-01T05:35:54.294Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2023-12-01T05:35:54.295Z - Handled HASH_TASKS. Handling time: 88. Response time: 1.
+[NX Daemon Server] - 2023-12-01T05:35:58.262Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-12-01T05:35:58.263Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-01T05:35:58.265Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-12-01T05:35:58.270Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-01T05:35:58.271Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-12-01T05:35:58.274Z - Time taken for 'total for creating and serializing project graph' 0.4657999873161316ms
+[NX Daemon Server] - 2023-12-01T05:35:58.274Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-12-01T05:35:58.275Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 4.
+[NX Daemon Server] - 2023-12-01T05:36:19.371Z - [WATCHER]: Processing file changes in outputs
