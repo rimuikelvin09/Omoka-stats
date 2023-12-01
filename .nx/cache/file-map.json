@@ -58,6 +58,58 @@
           "hash": "13044518069027839699"
         },
         {
+          "file": ".nx/cache/270106322158509578/code",
+          "hash": "1838281907459330133"
+        },
+        {
+          "file": ".nx/cache/270106322158509578/outputs/dist/omoka-app/3rdpartylicenses.txt",
+          "hash": "11573637724346256474"
+        },
+        {
+          "file": ".nx/cache/270106322158509578/outputs/dist/omoka-app/assets/Images/Logo.png",
+          "hash": "4614169873109898012"
+        },
+        {
+          "file": ".nx/cache/270106322158509578/outputs/dist/omoka-app/assets/Images/Vector.png",
+          "hash": "2686315220926873535"
+        },
+        {
+          "file": ".nx/cache/270106322158509578/outputs/dist/omoka-app/favicon.ico",
+          "hash": "3464744996580215640"
+        },
+        {
+          "file": ".nx/cache/270106322158509578/outputs/dist/omoka-app/index.html",
+          "hash": "10996165944512695100"
+        },
+        {
+          "file": ".nx/cache/270106322158509578/outputs/dist/omoka-app/main.642044236d24f127.js",
+          "hash": "6948726217825398610"
+        },
+        {
+          "file": ".nx/cache/270106322158509578/outputs/dist/omoka-app/polyfills.3c4f8d5f939c74ba.js",
+          "hash": "10621505813507369513"
+        },
+        {
+          "file": ".nx/cache/270106322158509578/outputs/dist/omoka-app/runtime.7f8dba399084b280.js",
+          "hash": "18215356381295123005"
+        },
+        {
+          "file": ".nx/cache/270106322158509578/outputs/dist/omoka-app/styles.825f9beafba69bd2.css",
+          "hash": "1465426487398103209"
+        },
+        {
+          "file": ".nx/cache/270106322158509578/terminalOutput",
+          "hash": "10167036806970679198"
+        },
+        {
+          "file": ".nx/cache/270106322158509578.commit",
+          "hash": "4664556114322093609"
+        },
+        {
+          "file": ".nx/cache/270106322158509578.tar.gz",
+          "hash": "15017609392736219979"
+        },
+        {
           "file": ".nx/cache/cloud/2311.09.8.hotfix8/index.js",
           "hash": "15966481786630545044",
           "deps": [
@@ -286,31 +338,35 @@
         },
         {
           "file": ".nx/cache/cloud/verify.lock",
-          "hash": "16329449093411236448"
+          "hash": "8068414499317183037"
         },
         {
           "file": ".nx/cache/d/daemon.log",
-          "hash": "7742508758425614939"
+          "hash": "6002588948135490687"
+        },
+        {
+          "file": ".nx/cache/d/server-process.json",
+          "hash": "14132769615465036256"
         },
         {
           "file": ".nx/cache/file-map.json",
-          "hash": "1780848013824826355"
+          "hash": "3995005907168606079"
         },
         {
           "file": ".nx/cache/lockfile.hash",
-          "hash": "2112220878127162656"
+          "hash": "989802151446638790"
         },
         {
           "file": ".nx/cache/parsed-lock-file.json",
-          "hash": "17473737597410747503"
+          "hash": "4340447814097057848"
         },
         {
           "file": ".nx/cache/project-graph.json",
-          "hash": "11075862500364442045"
+          "hash": "15403783568321555887"
         },
         {
           "file": ".nx/cache/run.json",
-          "hash": "6812882611441534054"
+          "hash": "6457662855647701324"
         },
         {
           "file": ".nx/cache/terminalOutputs/13344520415978928306",
@@ -319,6 +375,10 @@
         {
           "file": ".nx/cache/terminalOutputs/16160172895295489543",
           "hash": "8422726711575234484"
+        },
+        {
+          "file": ".nx/cache/terminalOutputs/270106322158509578",
+          "hash": "10167036806970679198"
         },
         {
           "file": ".nx/cache/terminalOutputs/3019950969390797108",
@@ -337,6 +397,10 @@
           "hash": "1956717781526463246"
         },
         {
+          "file": ".nx/cache/terminalOutputs/5239080977794827835",
+          "hash": "5288399336687038523"
+        },
+        {
           "file": ".nx/cache/terminalOutputs/5302250625187728449",
           "hash": "2532430170769669131"
         },
@@ -351,6 +415,10 @@
         {
           "file": ".nx/cache/terminalOutputs/8438321117526868988",
           "hash": "4505350272148834002"
+        },
+        {
+          "file": ".nx/cache/terminalOutputs/9628882668020839202",
+          "hash": "13904714571632720611"
         },
         {
           "file": ".vscode/extensions.json",
@@ -386,7 +454,11 @@
         },
         {
           "file": "functions/src/index.ts",
-          "hash": "13368166479861615281"
+          "hash": "13368166479861615281",
+          "deps": [
+            "npm:firebase-functions/v2/https",
+            "npm:firebase-functions/logger"
+          ]
         },
         {
           "file": "functions/tsconfig.dev.json",
@@ -402,7 +474,7 @@
         },
         {
           "file": "package-lock.json",
-          "hash": "6778459915244924379"
+          "hash": "7047199785719495323"
         },
         {
           "file": "package.json",
