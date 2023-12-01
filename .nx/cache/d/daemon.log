@@ -4350,3 +4350,307 @@ Error: Failed to process project dependencies with "nx-js-graph-plugin".
 [NX Daemon Server] - 2023-12-01T06:48:43.256Z - Closed a connection. Number of open connections: 0
 [NX Daemon Server] - 2023-12-01T06:48:43.256Z - Established a connection. Number of open connections: 1
 [NX Daemon Server] - 2023-12-01T06:48:43.259Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-01T06:48:44.909Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-01T06:48:44.910Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-01T06:48:44.910Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-01T06:48:46.152Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-12-01T06:48:46.154Z - Time taken for 'total for creating and serializing project graph' 2892.165899991989ms
+[NX Daemon Server] - 2023-12-01T06:48:46.155Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-12-01T06:48:46.155Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 2892. Response time: 4.
+[NX Daemon Server] - 2023-12-01T06:48:46.161Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-12-01T06:48:46.162Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-01T06:48:46.163Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-12-01T06:48:46.163Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-01T06:48:46.166Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2023-12-01T06:48:46.167Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2023-12-01T06:48:46.167Z - Handled REQUEST_FILE_DATA. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2023-12-01T06:49:07.740Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-01T06:49:07.743Z - [WATCHER]: tsconfig.json was modified
+[NX Daemon Server] - 2023-12-01T06:49:07.897Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-01T06:49:07.897Z - [REQUEST]: tsconfig.json
+[NX Daemon Server] - 2023-12-01T06:49:07.897Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-01T06:49:08.250Z - Time taken for 'hash changed files from watcher' 8.66399997472763ms
+[NX Daemon Server] - 2023-12-01T07:02:24.895Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2023-12-01T07:02:24.895Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-01T07:02:25.123Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-01T07:02:25.123Z - [REQUEST]: package.json
+[NX Daemon Server] - 2023-12-01T07:02:25.123Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-01T07:02:25.387Z - Time taken for 'hash changed files from watcher' 9.709000021219254ms
+[NX Daemon Server] - 2023-12-01T07:03:45.886Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2023-12-01T07:03:45.886Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-01T07:03:46.322Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-01T07:03:46.322Z - [REQUEST]: package.json
+[NX Daemon Server] - 2023-12-01T07:03:46.322Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-01T07:03:46.608Z - Time taken for 'hash changed files from watcher' 10.016999989748001ms
+[NX Daemon Server] - 2023-12-01T08:02:21.281Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2023-12-01T08:02:21.283Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-01T08:02:22.135Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-01T08:02:22.135Z - [REQUEST]: package.json
+[NX Daemon Server] - 2023-12-01T08:02:22.135Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-01T08:02:22.492Z - Time taken for 'hash changed files from watcher' 16.50510001182556ms
+[NX Daemon Server] - 2023-12-01T08:03:13.116Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2023-12-01T08:03:13.117Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-01T08:03:14.772Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-01T08:03:14.772Z - [REQUEST]: package.json
+[NX Daemon Server] - 2023-12-01T08:03:14.772Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-01T08:03:15.205Z - Time taken for 'hash changed files from watcher' 6.001900017261505ms
+[NX Daemon Server] - 2023-12-01T08:39:41.935Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2023-12-01T08:39:41.935Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-01T08:39:45.174Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-01T08:39:45.174Z - [REQUEST]: package.json
+[NX Daemon Server] - 2023-12-01T08:39:45.174Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-01T08:39:45.527Z - Time taken for 'hash changed files from watcher' 1.806199997663498ms
+[NX Daemon Server] - 2023-12-01T08:40:19.123Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-01T08:40:19.143Z - [WATCHER]: Stopping the watcher for c:\Users\hp\Desktop\Angular Projects\Expense tracking app\Omoka app\Omoka-app (sources)
+[NX Daemon Server] - 2023-12-01T08:40:19.144Z - [WATCHER]: Stopping the watcher for c:\Users\hp\Desktop\Angular Projects\Expense tracking app\Omoka app\Omoka-app (outputs)
+[NX Daemon Server] - 2023-12-01T08:40:19.144Z - Server stopped because: "Lock file changed"
+[NX Daemon Server] - 2023-12-01T08:42:34.852Z - Started listening on: \\.\pipe\nx\C:\Users\hp\AppData\Local\Temp\b9be9c1e898df31bae1d\d.sock
+[NX Daemon Server] - 2023-12-01T08:42:34.860Z - [WATCHER]: Subscribed to changes within: C:\Users\hp\Desktop\Angular Projects\Expense tracking app\Omoka app\Omoka-app (native)
+[NX Daemon Server] - 2023-12-01T08:42:34.864Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-01T08:42:34.872Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-12-01T08:42:34.873Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-01T08:42:34.877Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-01T08:42:35.032Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-01T08:42:35.032Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-01T08:42:35.032Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-01T08:42:36.048Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-12-01T08:42:36.052Z - Time taken for 'total for creating and serializing project graph' 1171.208999991417ms
+[NX Daemon Server] - 2023-12-01T08:42:36.053Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-12-01T08:42:36.053Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1172. Response time: 5.
+[NX Daemon Server] - 2023-12-01T08:42:36.284Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2023-12-01T08:42:36.285Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2023-12-01T08:42:36.285Z - Handled HASH_TASKS. Handling time: 102. Response time: 1.
+[NX Daemon Server] - 2023-12-01T08:42:40.026Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-12-01T08:42:40.027Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-01T08:42:40.028Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-12-01T08:42:40.032Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-01T08:42:40.032Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-12-01T08:42:40.034Z - Time taken for 'total for creating and serializing project graph' 0.38769999146461487ms
+[NX Daemon Server] - 2023-12-01T08:42:40.035Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-12-01T08:42:40.035Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 3.
+[NX Daemon Server] - 2023-12-01T08:42:42.361Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-01T08:42:42.393Z - [REQUEST]: Responding to the client. recordOutputsHash
+[NX Daemon Server] - 2023-12-01T08:42:42.394Z - Done responding to the client recordOutputsHash
+[NX Daemon Server] - 2023-12-01T08:42:42.394Z - Handled RECORD_OUTPUTS_HASH. Handling time: 4. Response time: 1.
+[NX Daemon Server] - 2023-12-01T08:42:42.924Z - [REQUEST]: Responding to the client. PROCESS_IN_BACKGROUND
+[NX Daemon Server] - 2023-12-01T08:42:42.926Z - Uploading file artifacts
+[NX Daemon Server] - 2023-12-01T08:42:42.927Z - Done uploading file artifacts
+[NX Daemon Server] - 2023-12-01T08:42:42.927Z - Sending EndRun request
+[NX Daemon Server] - 2023-12-01T08:42:42.933Z - Done responding to the client PROCESS_IN_BACKGROUND
+[NX Daemon Server] - 2023-12-01T08:42:42.933Z - Handled PROCESS_IN_BACKGROUND. Handling time: 335. Response time: 9.
+[NX Daemon Server] - 2023-12-01T08:42:43.108Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-12-01T08:42:43.852Z - Error when sending EndRun
+Error: This workspace is more than a week old and is unclaimed. Workspaces must be claimed within 7 days of creation. Claim your workspace at https://cloud.nx.app/orgs/workspace-setup?accessToken=ODVlMDkzOWItMzUxMC00ZWY5LWIxZmYtNTZjODY5MjEyMzUzfHJlYWQtd3JpdGU=
+    at Timeout._onTimeout (C:\Users\hp\Desktop\Angular Projects\Expense tracking app\Omoka app\Omoka-app\.nx\cache\cloud\2311.09.8.hotfix8\lib\daemon\process-run-end.js:16:5305)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[NX Daemon Server] - 2023-12-01T09:03:21.330Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2023-12-01T09:03:21.331Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-01T09:03:21.456Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-01T09:03:21.456Z - [REQUEST]: package.json
+[NX Daemon Server] - 2023-12-01T09:03:21.456Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-01T09:03:21.818Z - Time taken for 'hash changed files from watcher' 0.7939000129699707ms
+[NX Daemon Server] - 2023-12-01T09:03:26.465Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-01T09:03:26.469Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2023-12-01T09:03:26.698Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-01T09:03:26.698Z - [REQUEST]: package.json
+[NX Daemon Server] - 2023-12-01T09:03:26.698Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-01T09:03:27.105Z - Time taken for 'hash changed files from watcher' 0.5834000110626221ms
+[NX Daemon Server] - 2023-12-01T09:03:38.701Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-01T09:03:38.724Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2023-12-01T09:03:39.172Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-01T09:03:39.172Z - [REQUEST]: package.json
+[NX Daemon Server] - 2023-12-01T09:03:39.172Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-01T09:03:39.708Z - Time taken for 'hash changed files from watcher' 0.6780000030994415ms
+[NX Daemon Server] - 2023-12-01T09:03:52.669Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2023-12-01T09:03:52.670Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-01T09:03:53.567Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-01T09:03:53.568Z - [REQUEST]: package.json
+[NX Daemon Server] - 2023-12-01T09:03:53.568Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-01T09:03:54.125Z - Time taken for 'hash changed files from watcher' 0.5840000212192535ms
+[NX Daemon Server] - 2023-12-01T09:04:09.243Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-01T09:04:09.245Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2023-12-01T09:04:10.876Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-01T09:04:10.877Z - [REQUEST]: package.json
+[NX Daemon Server] - 2023-12-01T09:04:10.877Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-01T09:04:11.253Z - Time taken for 'hash changed files from watcher' 0.7412999868392944ms
+[NX Daemon Server] - 2023-12-01T09:04:19.941Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2023-12-01T09:04:19.941Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-01T09:04:23.167Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-01T09:04:23.167Z - [REQUEST]: package.json
+[NX Daemon Server] - 2023-12-01T09:04:23.167Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-01T09:04:23.531Z - Time taken for 'hash changed files from watcher' 0.9811000227928162ms
+[NX Daemon Server] - 2023-12-01T09:04:29.627Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-01T09:04:29.631Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2023-12-01T09:04:36.063Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-01T09:04:36.063Z - [REQUEST]: package.json
+[NX Daemon Server] - 2023-12-01T09:04:36.063Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-01T09:04:36.390Z - Time taken for 'hash changed files from watcher' 0.7739000022411346ms
+[NX Daemon Server] - 2023-12-01T09:04:39.956Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2023-12-01T09:04:39.957Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-01T09:04:46.389Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-01T09:04:46.389Z - [REQUEST]: package.json
+[NX Daemon Server] - 2023-12-01T09:04:46.389Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-01T09:04:46.729Z - Time taken for 'hash changed files from watcher' 0.6488000154495239ms
+[NX Daemon Server] - 2023-12-01T09:04:59.464Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2023-12-01T09:04:59.464Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-01T09:05:05.890Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-01T09:05:05.891Z - [REQUEST]: package.json
+[NX Daemon Server] - 2023-12-01T09:05:05.891Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-01T09:05:06.260Z - Time taken for 'hash changed files from watcher' 0.5266999900341034ms
+[NX Daemon Server] - 2023-12-01T09:05:08.863Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2023-12-01T09:05:08.864Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-01T09:05:15.299Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-01T09:05:15.299Z - [REQUEST]: package.json
+[NX Daemon Server] - 2023-12-01T09:05:15.300Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-01T09:05:15.739Z - Time taken for 'hash changed files from watcher' 0.5712000131607056ms
+[NX Daemon Server] - 2023-12-01T09:05:23.832Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-01T09:05:23.835Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2023-12-01T09:05:30.254Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-01T09:05:30.254Z - [REQUEST]: package.json
+[NX Daemon Server] - 2023-12-01T09:05:30.254Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-01T09:05:30.584Z - Time taken for 'hash changed files from watcher' 0.7169000208377838ms
+[NX Daemon Server] - 2023-12-01T09:05:36.800Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2023-12-01T09:05:36.802Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-01T09:05:43.237Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-01T09:05:43.237Z - [REQUEST]: package.json
+[NX Daemon Server] - 2023-12-01T09:05:43.237Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-01T09:05:43.622Z - Time taken for 'hash changed files from watcher' 0.4327000081539154ms
+[NX Daemon Server] - 2023-12-01T09:05:45.122Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-01T09:05:45.125Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2023-12-01T09:05:51.557Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-01T09:05:51.557Z - [REQUEST]: package.json
+[NX Daemon Server] - 2023-12-01T09:05:51.557Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-01T09:05:51.918Z - Time taken for 'hash changed files from watcher' 0.4372999966144562ms
+[NX Daemon Server] - 2023-12-01T09:05:57.194Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-01T09:05:57.196Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2023-12-01T09:06:03.620Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-01T09:06:03.621Z - [REQUEST]: package.json
+[NX Daemon Server] - 2023-12-01T09:06:03.621Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-01T09:06:03.983Z - Time taken for 'hash changed files from watcher' 0.7744999825954437ms
+[NX Daemon Server] - 2023-12-01T09:06:07.886Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2023-12-01T09:06:07.886Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-01T09:06:14.308Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-01T09:06:14.308Z - [REQUEST]: package.json
+[NX Daemon Server] - 2023-12-01T09:06:14.308Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-01T09:06:14.648Z - Time taken for 'hash changed files from watcher' 0.5851999819278717ms
+[NX Daemon Server] - 2023-12-01T09:06:18.577Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-01T09:06:18.583Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2023-12-01T09:06:25.015Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-01T09:06:25.015Z - [REQUEST]: package.json
+[NX Daemon Server] - 2023-12-01T09:06:25.015Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-01T09:06:25.485Z - Time taken for 'hash changed files from watcher' 0.7863999903202057ms
+[NX Daemon Server] - 2023-12-01T09:06:31.927Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-01T09:06:31.929Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2023-12-01T09:06:38.354Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-01T09:06:38.354Z - [REQUEST]: package.json
+[NX Daemon Server] - 2023-12-01T09:06:38.354Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-01T09:06:38.445Z - Time taken for 'hash changed files from watcher' 0.6597000062465668ms
+[NX Daemon Server] - 2023-12-01T09:06:44.044Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-01T09:06:44.054Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2023-12-01T09:06:50.474Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-01T09:06:50.474Z - [REQUEST]: package.json
+[NX Daemon Server] - 2023-12-01T09:06:50.474Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-01T09:06:50.804Z - Time taken for 'hash changed files from watcher' 0.7931999862194061ms
+[NX Daemon Server] - 2023-12-01T09:06:52.370Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-01T09:06:52.377Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2023-12-01T09:06:58.811Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-01T09:06:58.811Z - [REQUEST]: package.json
+[NX Daemon Server] - 2023-12-01T09:06:58.811Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-01T09:06:59.161Z - Time taken for 'hash changed files from watcher' 0.6190000176429749ms
+[NX Daemon Server] - 2023-12-01T09:07:04.326Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-01T09:07:04.328Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2023-12-01T09:07:10.760Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-01T09:07:10.760Z - [REQUEST]: package.json
+[NX Daemon Server] - 2023-12-01T09:07:10.760Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-01T09:07:10.851Z - Time taken for 'hash changed files from watcher' 0.8545999825000763ms
+[NX Daemon Server] - 2023-12-01T09:07:23.468Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2023-12-01T09:07:23.468Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-01T09:07:29.893Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-01T09:07:29.893Z - [REQUEST]: package.json
+[NX Daemon Server] - 2023-12-01T09:07:29.894Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-01T09:07:30.288Z - Time taken for 'hash changed files from watcher' 0.45180001854896545ms
+[NX Daemon Server] - 2023-12-01T09:07:34.922Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-01T09:07:34.924Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2023-12-01T09:07:41.346Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-01T09:07:41.346Z - [REQUEST]: package.json
+[NX Daemon Server] - 2023-12-01T09:07:41.346Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-01T09:07:41.652Z - Time taken for 'hash changed files from watcher' 0.5353999733924866ms
+[NX Daemon Server] - 2023-12-01T09:07:46.952Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-01T09:07:46.954Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2023-12-01T09:07:53.376Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-01T09:07:53.376Z - [REQUEST]: package.json
+[NX Daemon Server] - 2023-12-01T09:07:53.376Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-01T09:07:53.468Z - Time taken for 'hash changed files from watcher' 0.6816000044345856ms
+[NX Daemon Server] - 2023-12-01T09:07:58.777Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2023-12-01T09:07:58.778Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-01T09:08:05.206Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-01T09:08:05.207Z - [REQUEST]: package.json
+[NX Daemon Server] - 2023-12-01T09:08:05.207Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-01T09:08:05.311Z - Time taken for 'hash changed files from watcher' 0.6001000106334686ms
+[NX Daemon Server] - 2023-12-01T09:08:08.433Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-01T09:08:08.474Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2023-12-01T09:08:14.903Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-01T09:08:14.903Z - [REQUEST]: package.json
+[NX Daemon Server] - 2023-12-01T09:08:14.903Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-01T09:08:14.982Z - Time taken for 'hash changed files from watcher' 0.7427000105381012ms
+[NX Daemon Server] - 2023-12-01T09:08:22.835Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2023-12-01T09:08:22.836Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-01T09:08:29.273Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-01T09:08:29.273Z - [REQUEST]: package.json
+[NX Daemon Server] - 2023-12-01T09:08:29.273Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-01T09:08:29.630Z - Time taken for 'hash changed files from watcher' 3.470999985933304ms
+[NX Daemon Server] - 2023-12-01T09:08:32.280Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-01T09:08:32.281Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2023-12-01T09:08:38.708Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-01T09:08:38.708Z - [REQUEST]: package.json
+[NX Daemon Server] - 2023-12-01T09:08:38.708Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-01T09:08:38.805Z - Time taken for 'hash changed files from watcher' 0.5814000070095062ms
+[NX Daemon Server] - 2023-12-01T09:08:44.815Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-01T09:08:44.817Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2023-12-01T09:08:51.250Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-01T09:08:51.250Z - [REQUEST]: package.json
+[NX Daemon Server] - 2023-12-01T09:08:51.250Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-01T09:08:51.340Z - Time taken for 'hash changed files from watcher' 0.6317000091075897ms
+[NX Daemon Server] - 2023-12-01T09:08:54.746Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2023-12-01T09:08:54.747Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-01T09:09:01.176Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-01T09:09:01.176Z - [REQUEST]: package.json
+[NX Daemon Server] - 2023-12-01T09:09:01.176Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-01T09:09:01.518Z - Time taken for 'hash changed files from watcher' 0.5385000109672546ms
+[NX Daemon Server] - 2023-12-01T09:09:06.316Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-01T09:09:06.319Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2023-12-01T09:09:12.754Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-01T09:09:12.754Z - [REQUEST]: package.json
+[NX Daemon Server] - 2023-12-01T09:09:12.754Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-01T09:09:13.132Z - Time taken for 'hash changed files from watcher' 0.7706000208854675ms
+[NX Daemon Server] - 2023-12-01T09:09:28.876Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-01T09:09:28.880Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2023-12-01T09:09:35.303Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-01T09:09:35.304Z - [REQUEST]: package.json
+[NX Daemon Server] - 2023-12-01T09:09:35.304Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-01T09:09:35.698Z - Time taken for 'hash changed files from watcher' 0.5755999982357025ms
+[NX Daemon Server] - 2023-12-01T09:09:41.636Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2023-12-01T09:09:41.637Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-01T09:09:48.072Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-01T09:09:48.073Z - [REQUEST]: package.json
+[NX Daemon Server] - 2023-12-01T09:09:48.073Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-01T09:09:48.435Z - Time taken for 'hash changed files from watcher' 0.4790000021457672ms
+[NX Daemon Server] - 2023-12-01T09:09:52.249Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-01T09:09:52.266Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2023-12-01T09:09:58.689Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-01T09:09:58.689Z - [REQUEST]: package.json
+[NX Daemon Server] - 2023-12-01T09:09:58.689Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-01T09:09:59.024Z - Time taken for 'hash changed files from watcher' 0.5117999911308289ms
+[NX Daemon Server] - 2023-12-01T09:10:00.909Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-01T09:10:00.910Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2023-12-01T09:10:07.337Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-01T09:10:07.338Z - [REQUEST]: package.json
+[NX Daemon Server] - 2023-12-01T09:10:07.338Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-01T09:10:07.643Z - Time taken for 'hash changed files from watcher' 0.5315999984741211ms
+[NX Daemon Server] - 2023-12-01T09:12:57.084Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-01T09:12:57.089Z - [WATCHER]: Stopping the watcher for C:\Users\hp\Desktop\Angular Projects\Expense tracking app\Omoka app\Omoka-app (sources)
+[NX Daemon Server] - 2023-12-01T09:12:57.089Z - [WATCHER]: Stopping the watcher for C:\Users\hp\Desktop\Angular Projects\Expense tracking app\Omoka app\Omoka-app (outputs)
+[NX Daemon Server] - 2023-12-01T09:12:57.089Z - Server stopped because: "Lock file changed"
+[NX Daemon Server] - 2023-12-01T09:13:56.426Z - Started listening on: \\.\pipe\nx\C:\Users\hp\AppData\Local\Temp\b9be9c1e898df31bae1d\d.sock
+[NX Daemon Server] - 2023-12-01T09:13:56.433Z - [WATCHER]: Subscribed to changes within: C:\Users\hp\Desktop\Angular Projects\Expense tracking app\Omoka app\Omoka-app (native)
+[NX Daemon Server] - 2023-12-01T09:13:56.438Z - Established a connection. Number of open connections: 1

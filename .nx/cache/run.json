@@ -1,8 +1,8 @@
 {
   "run": {
     "command": "nx run Omoka-app:build",
-    "startTime": "2023-12-01T06:28:12.628Z",
-    "endTime": "2023-12-01T06:29:11.222Z",
+    "startTime": "2023-12-01T09:13:59.258Z",
+    "endTime": "2023-12-01T09:15:01.520Z",
     "inner": false
   },
   "tasks": [
@@ -10,9 +10,9 @@
       "taskId": "Omoka-app:build:production",
       "target": "build",
       "projectName": "Omoka-app",
-      "hash": "270106322158509578",
-      "startTime": "2023-12-01T06:28:12.650Z",
-      "endTime": "2023-12-01T06:29:11.219Z",
+      "hash": "17628078023941950972",
+      "startTime": "2023-12-01T09:13:59.280Z",
+      "endTime": "2023-12-01T09:15:01.518Z",
       "params": "",
       "cacheStatus": "cache-miss",
       "status": 0

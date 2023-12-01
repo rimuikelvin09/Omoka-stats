@@ -1,0 +1,5 @@
+
+ [31m>[39m [0m[7m[1m[31m NX [39m[22m[27m[0m  [31mThe requested module '@angular/compiler' does not provide an export named 'R3NgModuleMetadataKind'[39m
+
+   Pass --verbose to see the stacktrace.
+
