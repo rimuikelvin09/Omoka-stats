@@ -1,0 +1,101 @@
+[36m⠋[39m Generating browser application bundles (phase: setup)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: setup)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m  [2m | [22m[1mNames[22m        [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mvendor.js[39m[37m            [2m | [22mvendor       [2m | [22m  [96m5.73 MB[39m[37m[2m | [22m[0m[39m
+[37m[0m[92mpolyfills.js[39m[37m         [2m | [22mpolyfills    [2m | [22m[96m333.06 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[92mstyles.css, styles.js[39m[37m[2m | [22mstyles       [2m | [22m[96m232.39 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[92mmain.js[39m[37m              [2m | [22mmain         [2m | [22m[96m127.11 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m           [2m | [22mruntime      [2m | [22m  [96m8.01 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1m [22m                    [2m | [22m[1mInitial Total[22m[2m | [22m  [1m6.42 MB[22m[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-12-04T14:46:50.468Z[39m[37m[22m - Hash: [1m[37m1bf191919046a015[39m[37m[22m - Time: [1m[37m14056[39m[37m[22mms[0m[39m
+[1m[33m[39m[22m
+[1m[33m[0m[33mWarning: [39m[33m[0mC:\Users\hp\Desktop\Angular Projects\Expense tracking app\Omoka app\Omoka-app\node_modules\angular-highcharts\fesm2022\angular-highcharts.mjs depends on 'highcharts'. CommonJS or AMD dependencies can cause optimization bailouts.[39m[22m
+[1m[33mFor more info see: https://angular.io/guide/build#configuring-commonjs-dependencies[39m[22m
+[1m[33m[39m[22m
+[1m[33m[0m[33mWarning: [39m[33m[0mC:\Users\hp\Desktop\Angular Projects\Expense tracking app\Omoka app\Omoka-app\node_modules\angular-highcharts\fesm2022\angular-highcharts.mjs depends on 'highcharts/highcharts-gantt'. CommonJS or AMD dependencies can cause optimization bailouts.[39m[22m
+[1m[33mFor more info see: https://angular.io/guide/build#configuring-commonjs-dependencies[39m[22m
+[1m[33m[39m[22m
+[1m[33m[0m[33mWarning: [39m[33m[0mC:\Users\hp\Desktop\Angular Projects\Expense tracking app\Omoka app\Omoka-app\node_modules\angular-highcharts\fesm2022\angular-highcharts.mjs depends on 'highcharts/highmaps'. CommonJS or AMD dependencies can cause optimization bailouts.[39m[22m
+[1m[33mFor more info see: https://angular.io/guide/build#configuring-commonjs-dependencies[39m[22m
+[1m[33m[39m[22m
+[1m[33m[0m[33mWarning: [39m[33m[0mC:\Users\hp\Desktop\Angular Projects\Expense tracking app\Omoka app\Omoka-app\node_modules\angular-highcharts\fesm2022\angular-highcharts.mjs depends on 'highcharts/highstock'. CommonJS or AMD dependencies can cause optimization bailouts.[39m[22m
+[1m[33mFor more info see: https://angular.io/guide/build#configuring-commonjs-dependencies[39m[22m
+[1m[33m[39m[22m
+[1m[33m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[36m./node_modules/@fortawesome/angular-fontawesome/fesm2022/angular-fontawesome.mjs[39m[31m[0m:[0m[93m3:0-79[39m[31m[0m - [0m[91mError: [39m[31m[0mModule not found: Error: Can't resolve '@fortawesome/fontawesome-svg-core' in 'C:\Users\hp\Desktop\Angular Projects\Expense tracking app\Omoka app\Omoka-app\node_modules\@fortawesome\angular-fontawesome\fesm2022'[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@fortawesome/angular-fontawesome/icon-library.d.ts[0m:[93m1[0m:[93m64[0m - [91merror[0m[90m TS2307: [0mCannot find module '@fortawesome/fontawesome-svg-core' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m1[0m import { IconDefinition, IconName, IconPack, IconPrefix } from '@fortawesome/fontawesome-svg-core';[39m[22m
+[1m[31m[7m [0m [91m                                                               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@fortawesome/angular-fontawesome/icon/duotone-icon.component.d.ts[0m:[93m1[0m:[93m42[0m - [91merror[0m[90m TS2307: [0mCannot find module '@fortawesome/fontawesome-svg-core' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m1[0m import { IconDefinition, IconProp } from '@fortawesome/fontawesome-svg-core';[39m[22m
+[1m[31m[7m [0m [91m                                         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@fortawesome/angular-fontawesome/icon/duotone-icon.component.d.ts[0m:[93m44[0m:[93m27[0m - [91merror[0m[90m TS2307: [0mCannot find module '@fortawesome/fontawesome-svg-core' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m44[0m         transform: import("@fortawesome/fontawesome-svg-core").Transform;[39m[22m
+[1m[31m[7m  [0m [91m                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@fortawesome/angular-fontawesome/icon/duotone-icon.component.d.ts[0m:[93m47[0m:[93m24[0m - [91merror[0m[90m TS2307: [0mCannot find module '@fortawesome/fontawesome-svg-core' or its corresponding type d[39m[22m[1m[31meclarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m47[0m         styles: import("@fortawesome/fontawesome-svg-core").Styles;[39m[22m
+[1m[31m[7m  [0m [91m                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@fortawesome/angular-fontawesome/icon/duotone-icon.component.d.ts[0m:[93m48[0m:[93m24[0m - [91merror[0m[90m TS2307: [0mCannot find module '@fortawesome/fontawesome-svg-core' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m48[0m         symbol: import("@fortawesome/fontawesome-svg-core").FaSymbol;[39m[22m
+[1m[31m[7m  [0m [91m                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@fortawesome/angular-fontawesome/icon/icon.component.d.ts[0m:[93m3[0m:[93m113[0m - [91merror[0m[90m TS2307: [0mCannot find module '@fortawesome/fontawesome-svg-core' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m3[0m import { FaSymbol, FlipProp, IconDefinition, IconProp, PullProp, RotateProp, SizeProp, Styles, Transform } from '@fortawesome/fontawesome-svg-core';[39m[22m
+[1m[31m[7m [0m [91m                                                                                                                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@fortawesome/angular-fontawesome/layers/layers-counter.component.d.ts[0m:[93m3[0m:[93m39[0m - [91merror[0m[90m TS2307: [0mCannot find module '@fortawesome/fontawesome-svg-core' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m3[0m import { CounterParams, Styles } from '@fortawesome/fontawesome-svg-core';[39m[22m
+[1m[31m[7m [0m [91m                                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@fortawesome/angular-fontawesome/layers/layers-text.component.d.ts[0m:[93m3[0m:[93m89[0m - [91merror[0m[90m TS2307: [0mCannot find module '@fortawesome/fontawesome-svg-core' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m3[0m import { FlipProp, PullProp, RotateProp, SizeProp, Styles, TextPa[39m[22m[1m[31mrams, Transform } from '@fortawesome/fontawesome-svg-core';[39m[22m
+[1m[31m[7m [0m [91m                                                                                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@fortawesome/angular-fontawesome/layers/layers.component.d.ts[0m:[93m2[0m:[93m26[0m - [91merror[0m[90m TS2307: [0mCannot find module '@fortawesome/fontawesome-svg-core' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m2[0m import { SizeProp } from '@fortawesome/fontawesome-svg-core';[39m[22m
+[1m[31m[7m [0m [91m                         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@fortawesome/angular-fontawesome/shared/models/props.model.d.ts[0m:[93m1[0m:[93m97[0m - [91merror[0m[90m TS2307: [0mCannot find module '@fortawesome/fontawesome-svg-core' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m1[0m import { FaSymbol, FlipProp, IconProp, PullProp, RotateProp, SizeProp, Styles, Transform } from '@fortawesome/fontawesome-svg-core';[39m[22m
+[1m[31m[7m [0m [91m                                                                                                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/@fortawesome/angular-fontawesome/stack/stack.component.d.ts[0m:[93m2[0m:[93m26[0m - [91merror[0m[90m TS2307: [0mCannot find module '@fortawesome/fontawesome-svg-core' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m2[0m import { SizeProp } from '@fortawesome/fontawesome-svg-core';[39m[22m
+[1m[31m[7m [0m [91m                         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m** Angular Live Development Server is listening on localhost:4200, open your browser on http://localhost:4200/ **[39m
+[37m[39m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m

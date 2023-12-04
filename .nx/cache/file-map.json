@@ -2,18 +2,19 @@
   "version": "6.0",
   "nxVersion": "17.1.3",
   "deps": {
-    "@angular/animations": "^16.2.10",
+    "@angular/animations": "17.0.0",
     "@angular/cdk": "^16.2.7",
-    "@angular/common": "^16.2.10",
-    "@angular/compiler": "^16.2.10",
-    "@angular/core": "^16.2.10",
-    "@angular/forms": "^16.2.10",
+    "@angular/common": "17.0.0",
+    "@angular/compiler": "17.0.0",
+    "@angular/core": "17.0.0",
+    "@angular/forms": "17.0.0",
     "@angular/material": "^16.2.7",
-    "@angular/platform-browser": "^16.2.10",
-    "@angular/platform-browser-dynamic": "^16.2.10",
-    "@angular/router": "^16.2.10",
+    "@angular/platform-browser": "17.0.0",
+    "@angular/platform-browser-dynamic": "17.0.0",
+    "@angular/router": "17.0.0",
     "@fortawesome/angular-fontawesome": "^0.13.0",
     "@fortawesome/fontawesome-free": "^6.5.1",
+    "@fortawesome/fontawesome-svg-core": "^6.5.1",
     "@fortawesome/free-solid-svg-icons": "^6.5.1",
     "angular-highcharts": "^16.0.0",
     "highcharts": "^11.2.0",
@@ -24,7 +25,7 @@
     "@angular-devkit/core": "^16.2.10",
     "@angular-devkit/schematics": "^16.2.10",
     "@angular/cli": "^16.2.10",
-    "@angular/compiler-cli": "^16.2.12",
+    "@angular/compiler-cli": "17.0.0",
     "@nx/angular": "17.1.3",
     "@nx/workspace": "17.1.3",
     "@schematics/angular": "^16.2.10",
@@ -37,7 +38,7 @@
     "karma-jasmine-html-reporter": "~2.1.0",
     "ng-packagr": "^16.2.3",
     "nx": "17.1.3",
-    "typescript": "~5.1.6"
+    "typescript": "~5.2.0"
   },
   "pathMappings": {
     "font-awesome-icons": [
@@ -56,6 +57,58 @@
         {
           "file": ".gitignore",
           "hash": "13044518069027839699"
+        },
+        {
+          "file": ".nx/cache/17628078023941950972/code",
+          "hash": "1838281907459330133"
+        },
+        {
+          "file": ".nx/cache/17628078023941950972/outputs/dist/omoka-app/3rdpartylicenses.txt",
+          "hash": "11573637724346256474"
+        },
+        {
+          "file": ".nx/cache/17628078023941950972/outputs/dist/omoka-app/assets/Images/Logo.png",
+          "hash": "4614169873109898012"
+        },
+        {
+          "file": ".nx/cache/17628078023941950972/outputs/dist/omoka-app/assets/Images/Vector.png",
+          "hash": "2686315220926873535"
+        },
+        {
+          "file": ".nx/cache/17628078023941950972/outputs/dist/omoka-app/favicon.ico",
+          "hash": "3464744996580215640"
+        },
+        {
+          "file": ".nx/cache/17628078023941950972/outputs/dist/omoka-app/index.html",
+          "hash": "14713602719685246356"
+        },
+        {
+          "file": ".nx/cache/17628078023941950972/outputs/dist/omoka-app/main.f38a06ff788cdfaf.js",
+          "hash": "6446603987253945885"
+        },
+        {
+          "file": ".nx/cache/17628078023941950972/outputs/dist/omoka-app/polyfills.cb1222e3fee2c15d.js",
+          "hash": "12372297648806496036"
+        },
+        {
+          "file": ".nx/cache/17628078023941950972/outputs/dist/omoka-app/runtime.7f8dba399084b280.js",
+          "hash": "18215356381295123005"
+        },
+        {
+          "file": ".nx/cache/17628078023941950972/outputs/dist/omoka-app/styles.825f9beafba69bd2.css",
+          "hash": "1465426487398103209"
+        },
+        {
+          "file": ".nx/cache/17628078023941950972/source",
+          "hash": "8694750462238212052"
+        },
+        {
+          "file": ".nx/cache/17628078023941950972/terminalOutput",
+          "hash": "15553727204444757060"
+        },
+        {
+          "file": ".nx/cache/17628078023941950972.commit",
+          "hash": "4664556114322093609"
         },
         {
           "file": ".nx/cache/270106322158509578/code",
@@ -110,8 +163,8 @@
           "hash": "15017609392736219979"
         },
         {
-          "file": ".nx/cache/cloud/2311.09.8.hotfix8/index.js",
-          "hash": "15966481786630545044",
+          "file": ".nx/cache/cloud/2312.01.6/index.js",
+          "hash": "17807890174160981006",
           "deps": [
             "npm:os",
             "npm:assert",
@@ -191,8 +244,8 @@
           ]
         },
         {
-          "file": ".nx/cache/cloud/2311.09.8.hotfix8/lib/daemon/process-run-end.js",
-          "hash": "4387998712489105129",
+          "file": ".nx/cache/cloud/2312.01.6/lib/daemon/process-run-end.js",
+          "hash": "9178465496593350990",
           "deps": [
             "npm:path",
             "npm:os",
@@ -268,8 +321,8 @@
           ]
         },
         {
-          "file": ".nx/cache/cloud/2311.09.8.hotfix8/lib/heartbeat/heartbeat-process.js",
-          "hash": "5633484099946442012",
+          "file": ".nx/cache/cloud/2312.01.6/lib/heartbeat/heartbeat-process.js",
+          "hash": "12195602358968166578",
           "deps": [
             "npm:os",
             "npm:fs",
@@ -333,48 +386,72 @@
           ]
         },
         {
-          "file": ".nx/cache/cloud/2311.09.8.hotfix8/package.json",
+          "file": ".nx/cache/cloud/2312.01.6/package.json",
           "hash": "11687418979936424737"
         },
         {
           "file": ".nx/cache/cloud/verify.lock",
-          "hash": "16457561651128917930"
+          "hash": "15601983739411142063"
         },
         {
           "file": ".nx/cache/d/daemon.log",
-          "hash": "8515866375645143379"
+          "hash": "5516884099746666817"
         },
         {
           "file": ".nx/cache/d/server-process.json",
-          "hash": "8240503019049744230"
+          "hash": "4868354544413678333"
         },
         {
           "file": ".nx/cache/file-map.json",
-          "hash": "5540534447056901879"
+          "hash": "5123615884110623855"
         },
         {
           "file": ".nx/cache/lockfile.hash",
-          "hash": "14826275988965182942"
+          "hash": "7895320374083156835"
         },
         {
           "file": ".nx/cache/parsed-lock-file.json",
-          "hash": "13818004266518183539"
+          "hash": "8637878267013483716"
         },
         {
           "file": ".nx/cache/project-graph.json",
-          "hash": "14997517936335626114"
+          "hash": "8700063169238836635"
         },
         {
           "file": ".nx/cache/run.json",
-          "hash": "9132050358494019273"
+          "hash": "14963903423075599787"
+        },
+        {
+          "file": ".nx/cache/terminalOutputs/11692103666506066045",
+          "hash": "10074533707808989428"
+        },
+        {
+          "file": ".nx/cache/terminalOutputs/12614917527154048907",
+          "hash": "2378087600710814710"
+        },
+        {
+          "file": ".nx/cache/terminalOutputs/12905123741958594031",
+          "hash": "11157164942098220074"
         },
         {
           "file": ".nx/cache/terminalOutputs/13344520415978928306",
           "hash": "6671847402393207379"
         },
         {
+          "file": ".nx/cache/terminalOutputs/13919239064031265864",
+          "hash": "18268227120412846908"
+        },
+        {
+          "file": ".nx/cache/terminalOutputs/15460420232967384153",
+          "hash": "1952498230197074686"
+        },
+        {
           "file": ".nx/cache/terminalOutputs/16160172895295489543",
           "hash": "8422726711575234484"
+        },
+        {
+          "file": ".nx/cache/terminalOutputs/17628078023941950972",
+          "hash": "15553727204444757060"
         },
         {
           "file": ".nx/cache/terminalOutputs/270106322158509578",
@@ -387,6 +464,10 @@
         {
           "file": ".nx/cache/terminalOutputs/3512152963975152031",
           "hash": "9745139841673257692"
+        },
+        {
+          "file": ".nx/cache/terminalOutputs/3840815856418830454",
+          "hash": "9081698404383769452"
         },
         {
           "file": ".nx/cache/terminalOutputs/4279802997649748250",
@@ -421,8 +502,16 @@
           "hash": "4505350272148834002"
         },
         {
+          "file": ".nx/cache/terminalOutputs/8585950932325368408",
+          "hash": "2373811096027998842"
+        },
+        {
           "file": ".nx/cache/terminalOutputs/9628882668020839202",
           "hash": "13904714571632720611"
+        },
+        {
+          "file": ".nx/cache/terminalOutputs/9661365122508840912",
+          "hash": "7395368120560290700"
         },
         {
           "file": ".vscode/extensions.json",
@@ -473,16 +562,20 @@
           "hash": "1065957615995710747"
         },
         {
+          "file": "migrations.json",
+          "hash": "12939744036064040853"
+        },
+        {
           "file": "nx.json",
           "hash": "8880398563649383263"
         },
         {
           "file": "package-lock.json",
-          "hash": "10206968435424369303"
+          "hash": "6556045042241490373"
         },
         {
           "file": "package.json",
-          "hash": "13737216633965305502",
+          "hash": "418986157652854680",
           "deps": [
             "npm:@angular/animations",
             "npm:@angular/cdk",
